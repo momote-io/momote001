@@ -242,6 +242,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=CAMtastic5.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=CAMtastic6.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for momote001\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
@@ -559,78 +593,82 @@ DocumentPath=Project Outputs for momote001\PCB2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for momote001\PCB2.GM12
+DocumentPath=Project Outputs for momote001\PCB2.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for momote001\PCB2.GM13
+DocumentPath=Project Outputs for momote001\PCB2.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for momote001\PCB2.GM14
+DocumentPath=Project Outputs for momote001\PCB2.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for momote001\PCB2.GM15
+DocumentPath=Project Outputs for momote001\PCB2.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for momote001\PCB2.GM16
+DocumentPath=Project Outputs for momote001\PCB2.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for momote001\PCB2.GM17
+DocumentPath=Project Outputs for momote001\PCB2.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for momote001\PCB2.GPB
+DocumentPath=Project Outputs for momote001\PCB2.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for momote001\PCB2.GPT
+DocumentPath=Project Outputs for momote001\PCB2.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for momote001\PCB2.GTL
+DocumentPath=Project Outputs for momote001\PCB2.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for momote001\PCB2.GTO
+DocumentPath=Project Outputs for momote001\PCB2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for momote001\PCB2.GTP
+DocumentPath=Project Outputs for momote001\PCB2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for momote001\PCB2.GTS
+DocumentPath=Project Outputs for momote001\PCB2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for momote001\PCB2.LDP
+DocumentPath=Project Outputs for momote001\PCB2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for momote001\PCB2.REP
+DocumentPath=Project Outputs for momote001\PCB2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for momote001\PCB2.RUL
+DocumentPath=Project Outputs for momote001\PCB2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for momote001\PCB2.TXT
+DocumentPath=Project Outputs for momote001\PCB2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for momote001\odb\steps\pcb\profile
+DocumentPath=Project Outputs for momote001\PCB2.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for momote001\odb\steps\pcb\stephdr
+DocumentPath=Project Outputs for momote001\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument98]
+DocumentPath=Project Outputs for momote001\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument99]
 DocumentPath=Project Outputs for momote001\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -641,7 +679,6 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
-GenerateBOM=1
 OutputJobsCount=0
 
 [OutputGroup1]
@@ -1320,7 +1357,7 @@ OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=True|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908300~1,16908301~1,16908302~1,16908303~1,16908304~1,16908305~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=True|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908300~1,16908301~1,16908302~1,16908303~1,16908304~1,16908305~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
